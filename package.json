@@ -1,0 +1,13 @@
+{
+  "name": "docker_cloudrun_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "CSA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
